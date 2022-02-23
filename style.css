@@ -1,0 +1,274 @@
+/*---------------------------------------------------------------------------------
+
+ Theme Name:   Lumion
+ Theme URI:
+ Description:
+ Author:       imaggo.pl
+ Author URI:
+ Template:     Divi
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+
+------------------------------ ADDITIONAL CSS HERE ------------------------------*/
+footer ul li a{
+	    line-height: 1.2em !important;
+	padding-bottom:0px !important;
+}
+
+    @media only screen and (max-width: 768px) {
+		.et_pb_with_border.et_pb_column_1_2.et_pb_column.et_pb_column_0.zoom-in.et_pb_css_mix_blend_mode_passthrough{
+				padding-bottom:20px;
+		}
+		.et_pb_with_border.et_pb_column_1_2.et_pb_column.et_pb_column_1.zoom-in.et_pb_css_mix_blend_mode_passthrough.et-last-child{
+			padding-bottom:20px;
+		}
+		.et_pb_button_module_wrapper.et_pb_button_1_wrapper.et_pb_button_alignment_center.et_pb_module{
+						max-width:90% !important;
+			margin-bottom: 20px !important;
+			margin:0 auto !important;
+		}
+		.et_pb_button_module_wrapper.et_pb_button_0_wrapper.et_pb_button_alignment_center.et_pb_module{
+			max-width:90% !important;
+			margin-bottom: 20px !important;
+			margin:0 auto !important;
+		}
+		.et_pb_row_0, body #page-container .et-db #et-boc .et-l .et_pb_row_0.et_pb_row, body.et_pb_pagebuilder_layout.single #page-container #et-boc .et-l .et_pb_row_0.et_pb_row, body.et_pb_pagebuilder_layout.single.et_full_width_page #page-container #et-boc .et-l .et_pb_row_0.et_pb_row{
+			width:90% !important;
+		}
+		.et_pb_row_3, body #page-container .et-db #et-boc .et-l .et_pb_row_3.et_pb_row, body.et_pb_pagebuilder_layout.single #page-container #et-boc .et-l .et_pb_row_3.et_pb_row, body.et_pb_pagebuilder_layout.single.et_full_width_page #page-container #et-boc .et-l .et_pb_row_3.et_pb_row{
+		max-width:100% !important;
+		}
+		.et_pb_row.et_pb_row_2.et_pb_equal_columns.et_pb_gutters3 {
+    margin-top: 0px !important;
+}
+		.et_pb_with_border .et_pb_column_1_4 {
+    margin-bottom: 59px !important;
+}
+			.et_pb_row .et_pb_column.et_pb_column_1_4:last-child, .et_pb_row .et_pb_column.et_pb_column_1_4.et-last-child, .et_pb_row .et_pb_column.et_pb_column_1_5:last-child, .et_pb_row .et_pb_column.et_pb_column_1_5.et-last-child, .et_pb_row .et_pb_column.et_pb_column_1_6:last-child, .et_pb_row .et_pb_column.et_pb_column_1_6.et-last-child {
+    margin-bottom: 0px !important;
+}
+		.et_pb_row_17.et_pb_row{
+				padding-left:0px !important;
+			padding-right:0px !important;
+		}
+		.et_pb_row_31{
+			height: auto !important;
+		}
+		.et_pb_gallery_0.et_pb_gallery {
+    height: 180px !important;
+    padding-top: 25px;
+}
+		.video_popup a:before {
+    content: 'E';
+    margin: 0 auto !important;
+    font-family: 'ETmodules';
+    cursor: pointer;
+    position: absolute;
+    top: 34% !important;
+    left: 38% !important;
+    z-index: 20;
+    background-color: #F53131;
+    padding: 20px !important;
+    border-radius: 20%;
+    font-size: 20px !important;
+    text-transform: uppercase;
+    color: #ffffff;
+    -webkit-transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+}
+.video_popup a:after {
+    content: 'E';
+    font-family: 'ETmodules';
+    cursor: pointer;
+    position: absolute;
+    top: 34% !important;
+    left: 38% !important;
+    z-index: 20;
+    background-color: #C81B1E;
+    padding: 20px !important;
+    border-radius: 20%;
+    font-size: 20px !important;
+    text-transform: uppercase;
+    color: #ffffff;
+    -webkit-transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+}
+		.et-pb-arrow-prev, .et-pb-arrow-next {
+    position: absolute;
+    top: 61%;
+    z-index: 100;
+			font-size: 19px;
+		}
+/* 		.et_pb_text_2 h2{
+			font-size:20px !important;
+		} */
+/* 		.et_pb_text_inner p{
+			font-size:14px !important;
+		}
+		.et_pb_row_2.et_pb_row{
+			margin-top:20px !important;
+		} */
+/* 		 h2{
+			font-size:20px !important;
+		}
+		h1{
+			font-size:30px !important;
+		} */
+		.et_pb_row.et_pb_row_4.et_pb_equal_columns.et_pb_gutters3{
+			padding-left:0px !important;
+			padding-right:0px !important;
+		}
+		.et_pb_row.et_pb_row_8.et_pb_equal_columns.et_pb_gutters3{
+			padding-left:0px !important;
+			padding-right:0px !important;
+		}
+		.et_pb_text_31.et_pb_text{
+			padding-left:0px !important;
+			padding-right:0px !important;
+		}
+		.et_pb_row{
+				padding-left:0px !important;
+			padding-right:0px !important;
+		}
+		.et_pb_row.et_pb_row_17{
+			padding-left:0px !important;
+			padding-right:0px !important;
+		}
+		button.slds-button.slds-button_neutral.sendButtonDisabled {
+    font-size: 12px;
+				line-height:normal !important;
+}
+		.et_pb_row.et_pb_row_0.et_pb_equal_columns.et_pb_gutters3 {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+    /* width: 100%; */
+}
+		label.slds-form-element__label.slds-no-flex{
+			font-size:10px !important;
+		}
+		.cFORM_Newsletter .sendButtonDiv .sendButton, .cFORM_Newsletter .sendButtonDiv .sendButton:hover, .cFORM_Newsletter .sendButtonDiv .sendButtonDisabled, .cFORM_Newsletter .sendButtonDiv .sendButtonDisabled:hover {
+    font-size: 10px !important;
+			line-height:normal !important;
+}
+		img{
+			max-width:100% !important;
+		}
+		.et_pb_row.et_pb_row_2{
+			width:100% !important;
+		}
+    }
+
+.custom-form {
+	min-height: 308.3px;
+}
+
+.custom-form.is-blocked {
+	position: relative;
+}
+
+.custom-form.is-blocked:after {
+	content: " ";
+	position: absolute;
+	top: 50%;
+	left: calc(50% - 21px);
+	display: block;
+	width: 42px;
+	height: 42px;
+	border-radius: 50%;
+	border: 8px solid #40758b;
+	border-color: #40758b transparent #40758b transparent;
+	animation: lds-dual-ring 1.2s linear infinite;
+	z-index: 99;
+}
+
+.custom-form.is-blocked form {
+	opacity: 0.25;
+	pointer-events: none;
+}
+
+.custom-container {
+	text-align: center;
+	padding-top: 1rem;
+}
+
+.licence-form {
+	width: 100%;
+	max-width: 662px;
+	border: 1px solid #555;
+	padding: 3.125rem;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.text-wrapper {
+	width: 100%;
+	max-width: 662px;
+	margin: 0 auto;
+	text-align: center;
+	margin-bottom: 2rem;
+}
+
+.licence-form__title{
+	font-weight: 500;
+	padding-bottom: 16px;
+	position: relative;
+	color: #555;
+	line-height: 1.2em;
+	font-size: 1.125rem;
+}
+
+.licence-form form {
+	text-align: center;
+}
+
+.licence-form input {
+	display: block;
+	background-color: #EEE;
+	width: 100%;
+	border-width: 0px;
+	border-radius: 0;
+	color: #999;
+	font-size: 14px;
+	padding: 1rem;
+}
+
+.licence-form form button {
+	margin-top: 2.5rem;
+}
+
+.is-process {
+	opacity: 0.5;
+	pointer-events:  none;
+	cursor: progress;
+}
+
+/*// loader*/
+
+
+.lds-dual-ring {
+	display: inline-block;
+	width: 80px;
+	height: 80px;
+}
+.lds-dual-ring:after {
+	content: " ";
+	display: block;
+	width: 42px;
+	height: 42px;
+	margin: 8px;
+	border-radius: 50%;
+	border: 8px solid #40758b;
+	border-color: #40758b transparent #40758b transparent;
+	animation: lds-dual-ring 1.2s linear infinite;
+}
+@keyframes lds-dual-ring {
+	0% {
+		transform: rotate(0deg);
+	}
+	100% {
+		transform: rotate(360deg);
+	}
+}
